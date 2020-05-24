@@ -118,7 +118,10 @@ namespace motorbit {
 		A01A02 = 0x3,
 		B01B02 = 0x4,
 		A03A04 = 0x1,
-		B03B04 = 0x2
+		B03B04 = 0x2,
+		A05A06 = 0x7,
+		B05B06 = 0X8,
+		A07A08 = 0X6
 	}
 
 	export enum Steppers {
